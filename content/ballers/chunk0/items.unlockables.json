@@ -1,0 +1,77 @@
+{
+	"PACKAGE_STARTING_PACKAGE": {
+		"Properties": {
+			"Unlocks": [
+				"FIREARMS_CONCEPT5_DTI",
+				"FIREARMS_WALL_PIERCER",
+				"FIREARMS_BLACKLILY_V3"
+			]
+		}
+	},
+	"FIREARMS_CONCEPT5_DTI": {
+		"Id": "FIREARMS_CONCEPT5_DTI",
+		"Guid": "883c2da0-acde-432e-9588-fc7bd0c80642",
+		"Type": "weapon",
+		"Subtype": "pistol",
+		"ImageId": "",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Quality": 3,
+			"LoadoutSlot": "concealedweapon",
+			"IsContainer": false,
+			"Rarity": "common",
+			"RepositoryId": "29f10687-7ff4-4d30-a12a-53054afb3558"
+		},
+		"Rarity": "common"
+	},
+	"FIREARMS_WALL_PIERCER": {
+		"Id": "FIREARMS_WALL_PIERCER",
+		"Guid": "2ea4b49c-9015-447b-8046-607b8f3f2a61",
+		"Type": "weapon",
+		"Subtype": "pistol",
+		"ImageId": "",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Quality": 3,
+			"LoadoutSlot": "concealedweapon",
+			"IsContainer": false,
+			"Rarity": "common",
+			"RepositoryId": "c44d3dc4-5e2f-403d-9f69-40111f3643db"
+		},
+		"Rarity": "common"
+	},
+	"FIREARMS_BLACKLILY_V3": {
+		"Id": "FIREARMS_BLACKLILY_V3",
+		"Guid": "6c878c53-7d7c-40c4-9263-cf5792f68e8d",
+		"Type": "weapon",
+		"Subtype": "pistol",
+		"ImageId": "",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Quality": 3,
+			"LoadoutSlot": "concealedweapon",
+			"IsContainer": false,
+			"Rarity": "common",
+			"RepositoryId": "b0f87b4e-a41c-4771-8c74-f56574129679"
+		},
+		"Rarity": "common"
+	}
+}

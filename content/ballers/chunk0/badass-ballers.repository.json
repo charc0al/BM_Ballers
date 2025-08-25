@@ -1,0 +1,144 @@
+{
+	"b0f87b4e-a41c-4771-8c74-f56574129679": {
+		"CommonName": "(Pistol) 1911 Charc0al Baller",
+		"AppliedModifiers": [
+			"0ade8d9c-70d9-482d-914b-38afd93b9f63",
+			"0ade8d9c-70d9-482d-914b-38afd93b9f63",
+			"0ade8d9c-70d9-482d-914b-38afd93b9f63"
+		],
+		"ModelBodyPartSelections": [
+			0, 0, 1, 2, 1, 1, 1, 1, 4, 1
+		],
+		"ModelMuzzleExtensionSelection": 7,
+		"ModelMuzzleExtensionSkinSelection": 0,
+		"ModelScopeSelection": 2,
+		"ModelScopeSkinSelection": 0,
+		"ModelSkinSelections": [
+			0, 6, 4, 3, 0, 0, 0, 0, 0, 0, 0
+		],
+		"Name_LOC": "firearms_hero_pistol_ica19_blacklilly3_name"
+	},
+	"f93b99a3-aef6-419f-b303-59470577696d": {
+		"CommonName": "(Pistol) ICA 19 Black Lilly",
+		"AppliedModifiers": [
+			"0ade8d9c-70d9-482d-914b-38afd93b9f63",
+			"0ade8d9c-70d9-482d-914b-38afd93b9f63",
+			"0ade8d9c-70d9-482d-914b-38afd93b9f63"
+		],
+		"ModelBodyPartSelections": [
+			0, 0, 1, 2, 1, 1, 1, 0, 4, 1
+		],
+		"ModelMuzzleExtensionSelection": 7,
+		"ModelMuzzleExtensionSkinSelection": 1,
+		"ModelScopeSelection": 0,
+		"ModelScopeSkinSelection": 0,
+		"ModelSkinSelections": [
+			0, 6, 4, 0, 0, 0, 0, 0, 0, 1, 1
+		]
+	},
+	"4bbe3b64-8bce-416e-a3e9-00bcd1571980": {
+		"CommonName": "(Pistol) ICA 19 SilverBaller S2",
+		"ModelBodyPartSelections": [
+			0, 1, 1, 2, 1, 0, 1, 1, 2, 1
+		],
+		"ModelMuzzleExtensionSelection": 4,
+		"ModelMuzzleExtensionSkinSelection": 0,
+		"ModelScopeSelection": 1,
+		"ModelScopeSkinSelection": 0,
+		"ModelSkinSelections": [
+			2, 1, 2, 2, 2, 2, 2, 2, 0, 2, 0
+		]
+	},
+	"c44d3dc4-5e2f-403d-9f69-40111f3643db": {
+		"CommonName": "(Pistol) The Wall Piecer",
+		"Name_LOC": "firearms_hero_wallbanger_name",
+		"ModelBodyPartSelections": [
+			1, 4, 1, 1, 1, 0, 1, 1, 0, 1, 1
+		],
+		"ModelMuzzleExtensionSelection": 8,
+		"ModelMuzzleExtensionSkinSelection": 1,
+		"ModelScopeSelection": 2,
+		"ModelScopeSkinSelection": 1,
+		"ModelSkinSelections": [
+			0, 0, 0, 1, 3, 1, 4, 0, 0, 3, 2
+		]
+	},
+	"028bcbf4-a0a3-42b5-beaf-163a777164e8": {
+		"CommonName": "(Pistol) ICA 19 GoldBaller",
+		"ModelBodyPartSelections": [
+			0, 1, 1, 1, 1, 0, 1, 2, 0, 1
+		],
+		"ModelMuzzleExtensionSelection": 3,
+		"ModelMuzzleExtensionSkinSelection": 2,
+		"ModelScopeSelection": 0,
+		"ModelScopeSkinSelection": 0,
+		"ModelSkinSelections": [
+			3, 1, 2, 3, 3, 4, 3, 3, 4, 3, 0
+		]
+	},
+	"6eccc7e1-e31b-42de-8f84-b88d8e0032ea": {
+		"CommonName": "(Pistol) ICA 19 DTI",
+		"ModelBodyPartSelections": [
+			0, 1, 1, 1, 1, 0, 1, 2, 0, 1
+		],
+		"ModelMuzzleExtensionSelection": 3,
+		"ModelMuzzleExtensionSkinSelection": 2,
+		"ModelScopeSelection": 0,
+		"ModelScopeSkinSelection": 0,
+		"ModelSkinSelections": [
+			3, 1, 2, 3, 3, 4, 3, 3, 4, 3, 0
+		]
+	},
+	"cfa664fc-e583-4ad5-ade5-2f746d8656ca": {
+		"CommonName": "(Pre-order) ICA 19 Birth Baller",
+		"ModelBodyPartSelections": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ModelMuzzleExtensionSelection": -1,
+		"ModelMuzzleExtensionSkinSelection": -1,
+		"ModelScopeSelection": 0,
+		"ModelScopeSkinSelection": 0,
+		"ModelSkinSelections": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		]
+	},
+	"563e5651-3024-4dc8-9063-93030a670ca3": {
+		"CommonName": "(Pre-order) ICA 19 Death Baller",
+		"ModelBodyPartSelections": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ModelMuzzleExtensionSelection": -1,
+		"ModelMuzzleExtensionSkinSelection": -1,
+		"ModelScopeSelection": 0,
+		"ModelScopeSkinSelection": 0,
+		"ModelSkinSelections": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		]
+	},
+	"fca954f6-40b1-448d-b4a8-0c543e521cc3": {
+		"CommonName": "(Pre-order) ICA 19 Life Baller",
+		"ModelBodyPartSelections": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ModelMuzzleExtensionSelection": -1,
+		"ModelMuzzleExtensionSkinSelection": -1,
+		"ModelScopeSelection": 0,
+		"ModelScopeSkinSelection": 0,
+		"ModelSkinSelections": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		]
+	},
+	"5b497a01-7941-474f-ac36-2b0490b528a4": {
+		"CommonName": "(Pistol) Purple Baller",
+		"ModelBodyPartSelections": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		],
+		"ModelMuzzleExtensionSelection": 0,
+		"ModelMuzzleExtensionSkinSelection": 0,
+		"ModelScopeSelection": 0,
+		"ModelScopeSkinSelection": 0,
+		"ModelSkinSelections": [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+		]
+	}
+}

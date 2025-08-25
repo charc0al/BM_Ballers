@@ -1,9 +1,33 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.25.1"
+	"updateCheck": "https://github.com/charc0al/BM_Ballers/releases/latest/download/updates.json",
+	"id": "Charc0al.BloodMoneyBallers",
+	"name": "Blood Money Ballers",
+	"description": "A collection of upgraded silverballers.",
+	"authors": ["Charc0al"],
+	"frameworkVersion": "2.33.26",
+	"options": [
+		{
+			"name": "Ballers",
+			"tooltip": "Add bonus unlockables to the planning screen. Propane flask, frying pan, sniper case, among others.",
+			"group": "Other",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["content/ballers"],
+			"localisation": {
+				"english": {
+					"FIREARMS_HERO_WALLBANGER_NAME": "The Wallbanger",
+					"FIREARMS_HERO_PISTOL_ICA19_BLACKLILLY3_NAME": "1911 Charcoal"
+				}
+			}
+		},
+		{
+			"name": "Disable Online Resources",
+			"tooltip": "Allows for edits to the REPO, such as changing NPC names or certain weapon details. Not necessary if using Peacock. If you enable this and use the Peacock server, you need to also install https://github.com/thepeacockproject/peacock-strings for Peacock’s text to display properly.",
+			"type": "checkbox",
+			"enabledByDefault": false,
+			"thumbs": ["ConsoleCmd OnlineResources_Disable 1"]
+		}
+	]
 }
