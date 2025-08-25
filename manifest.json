@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"updateCheck": "https://github.com/charc0al/BM_Ballers/releases/latest/download/updates.json",
 	"id": "Charc0al.BloodMoneyBallers",
 	"name": "Blood Money Ballers",
