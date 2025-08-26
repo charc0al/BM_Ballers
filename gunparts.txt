@@ -1,11 +1,11 @@
-0 - ??grip
+0 - BARRELL
 1 - grip
 2 - outer grip
-3 - mag
-4 - ?hammer? YES
+3 - MAG
+4 - HAMMER
 5 - lower body
-6 - ??? grip safety?
-7 - rail
-8 - upper? YES?
+6 - GRIP SAFETY
+7 - RAIL
+8 - SLIDE
 9 - TRIGGER
 10 - ??
