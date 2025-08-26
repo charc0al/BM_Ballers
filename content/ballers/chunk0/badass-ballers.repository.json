@@ -49,21 +49,21 @@
 	},
 	"028bcbf4-a0a3-42b5-beaf-163a777164e8": {
 		"CommonName": "(Pistol) ICA 19 GoldBaller",
-		"ModelBodyPartSelections": [1, 1, 1, 1, 4, 1, 4, 4, 4, 4],
+		"ModelBodyPartSelections": [1, 1, 1, 1, 1, 1, 4, 4, 4, 4],
 		"ModelMuzzleExtensionSelection": 3,
 		"ModelMuzzleExtensionSkinSelection": 2,
 		"ModelScopeSelection": 0,
 		"ModelScopeSkinSelection": 0,
-		"ModelSkinSelections": [0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1]
+		"ModelSkinSelections": [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1]
 	},
 	"6eccc7e1-e31b-42de-8f84-b88d8e0032ea": {
 		"CommonName": "(Pistol) ICA 19 DTI",
-		"ModelBodyPartSelections": [1, 1, 1, 1, 4, 1, 4, 4, 4, 1],
+		"ModelBodyPartSelections": [1, 1, 1, 1, 1, 1, 4, 4, 4, 1],
 		"ModelMuzzleExtensionSelection": 3,
 		"ModelMuzzleExtensionSkinSelection": 2,
 		"ModelScopeSelection": 0,
 		"ModelScopeSkinSelection": 0,
-		"ModelSkinSelections": [0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0]
+		"ModelSkinSelections": [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0]
 	},
 	"563e5651-3024-4dc8-9063-93030a670ca3": {
 		"CommonName": "(Pre-order) ICA 19 Death Black Baller",
@@ -86,12 +86,12 @@
 	},
 	"cfa664fc-e583-4ad5-ade5-2f746d8656ca": {
 		"CommonName": "(Pre-order) ICA 19 Birth White Baller",
-		"ModelBodyPartSelections": [0, 0, 0, 1, 1, 0, 0, 1, 0, 0],
+		"ModelBodyPartSelections": [0, 0, 0, 1, 1, 0, 0, 1, 0, 1],
 		"ModelMuzzleExtensionSelection": 3,
 		"ModelMuzzleExtensionSkinSelection": 1,
 		"ModelScopeSelection": 1,
 		"ModelScopeSkinSelection": 0,
-		"ModelSkinSelections": [6, 6, 6, 1, 2, 5, 6, 1, 6, 6, 0]
+		"ModelSkinSelections": [6, 6, 6, 1, 2, 5, 6, 1, 6, 6, 1]
 	},
 	"5b497a01-7941-474f-ac36-2b0490b528a4": {
 		"CommonName": "(Pistol) Purple Baller",
