@@ -2,10 +2,10 @@
 1 - grip
 2 - outer grip
 3 - mag
-4 - ?hammer?
+4 - ?hammer? YES
 5 - lower body
-6 - upper? NO
+6 - ??? upper? NO
 7 - rail
 8 - upper? YES?
-9 - trigger?
-10 - 
+9 - ??? maybe trigger? TRIGGER
+10 - ??
