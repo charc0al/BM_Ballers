@@ -14,7 +14,14 @@
 			"group": "Other",
 			"type": "checkbox",
 			"enabledByDefault": true,
-			"contentFolders": ["content/ballers"],
+			"contentFolders": ["content/ballers"]
+		},
+		{
+			"name": "Localization",
+			"tooltip": "Localizations",
+			"group": "Other",
+			"type": "checkbox",
+			"enabledByDefault": true,
 			"localisation": {
 				"english": {
 					"FIREARMS_HERO_WALLBANGER_NAME": "The Wallbanger",

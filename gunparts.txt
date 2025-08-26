@@ -4,8 +4,8 @@
 3 - mag
 4 - ?hammer? YES
 5 - lower body
-6 - ??? upper? NO
+6 - ??? grip safety?
 7 - rail
 8 - upper? YES?
-9 - ??? maybe trigger? TRIGGER
+9 - TRIGGER
 10 - ??
