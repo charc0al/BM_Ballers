@@ -58,12 +58,12 @@
 	},
 	"6eccc7e1-e31b-42de-8f84-b88d8e0032ea": {
 		"CommonName": "(Pistol) ICA 19 DTI",
-		"ModelBodyPartSelections": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+		"ModelBodyPartSelections": [1, 1, 1, 1, 4, 1, 4, 4, 4, 1],
 		"ModelMuzzleExtensionSelection": 3,
 		"ModelMuzzleExtensionSkinSelection": 2,
 		"ModelScopeSelection": 0,
 		"ModelScopeSkinSelection": 0,
-		"ModelSkinSelections": [3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+		"ModelSkinSelections": [0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0]
 	},
 	"563e5651-3024-4dc8-9063-93030a670ca3": {
 		"CommonName": "(Pre-order) ICA 19 Death Black Baller",
@@ -101,12 +101,12 @@
 			"0ade8d9c-70d9-482d-914b-38afd93b9f63",
 			"eb17e5b3-6abf-4ad7-b0e7-c13bdcbf8647"
 		],
-		"ModelBodyPartSelections": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
-		"ModelMuzzleExtensionSelection": 3,
-		"ModelMuzzleExtensionSkinSelection": 2,
-		"ModelScopeSelection": 1,
+		"ModelBodyPartSelections": [0, 0, 1, 2, 1, 1, 1, 0, 4, 4],
+		"ModelMuzzleExtensionSelection": 7,
+		"ModelMuzzleExtensionSkinSelection": 1,
+		"ModelScopeSelection": 0,
 		"ModelScopeSkinSelection": 0,
-		"ModelSkinSelections": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+		"ModelSkinSelections": [0, 6, 4, 0, 0, 0, 0, 0, 0, 1, 1]
 	},
 	"f91cf558-04a5-4fd8-8814-b1c765668b39": {
 		"CommonName": "(Pistol) HWK 21 Covert",
