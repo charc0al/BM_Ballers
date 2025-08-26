@@ -86,7 +86,7 @@
 	},
 	"cfa664fc-e583-4ad5-ade5-2f746d8656ca": {
 		"CommonName": "(Pre-order) ICA 19 Birth White Baller",
-		"ModelBodyPartSelections": [0, 0, 0, 1, 1, 0, 0, 1, 0, 1],
+		"ModelBodyPartSelections": [0, 0, 0, 1, 1, 0, 0, 1, 0, 0],
 		"ModelMuzzleExtensionSelection": 3,
 		"ModelMuzzleExtensionSkinSelection": 1,
 		"ModelScopeSelection": 1,
@@ -101,7 +101,7 @@
 			"0ade8d9c-70d9-482d-914b-38afd93b9f63",
 			"eb17e5b3-6abf-4ad7-b0e7-c13bdcbf8647"
 		],
-		"ModelBodyPartSelections": [0, 0, 1, 2, 1, 1, 1, 0, 4, 4],
+		"ModelBodyPartSelections": [0, 0, 1, 2, 1, 1, 1, 0, 4, 1],
 		"ModelMuzzleExtensionSelection": 7,
 		"ModelMuzzleExtensionSkinSelection": 1,
 		"ModelScopeSelection": 0,
