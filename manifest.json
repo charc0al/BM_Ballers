@@ -6,7 +6,7 @@
 	"name": "Blood Money Ballers",
 	"description": "A collection of upgraded silverballers.",
 	"authors": ["Charc0al"],
-	"frameworkVersion": "2.33.27",
+	"frameworkVersion": "2.33.26",
 	"options": [
 		{
 			"name": "Ballers",

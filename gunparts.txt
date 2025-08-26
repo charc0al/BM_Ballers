@@ -1,6 +1,6 @@
-0 - grip
-1 - extra grip
-2 - ??
+0 - ??grip
+1 - ??grip
+2 - outer grip
 3 - mag
 4 - ?hammer?
 5 - lower body
