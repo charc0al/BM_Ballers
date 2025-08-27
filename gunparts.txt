@@ -1,4 +1,4 @@
-0 - BARRELL
+0 - BARREL
 1 - grip
 2 - outer grip
 3 - MAG
@@ -12,16 +12,134 @@
 
 
 MUZZLE
+0 - nothing
+1 - Threaded barrel extension
+2 - Magnum 1 vent
+3 - Standard Suppressor:
+	0. Black fancy
+	1. Silver
+	2. Black
+	3. Gold
+	4. Floral
+	5. Cherry
+4 - Shortballer
+5 - Thin long
+6 - Extended barrel
+7 - Lily V3
+8 - Striker barrel ported
+9 - Spraypaint Can
+10 - Duck
+11 - Spray can yello
+
+
+GRIP
+0 - Standard
+	0 - Solid black
+	1 - Charcoal textured
+	2 - White skull
+	3 - White snake
+	4 - Blood red
+	5 - Gray textured
+	6 - Gunmetal striped
+	7 - Gunmetal dimples
+	8 - Ducky
+1 - Wood?
+	0 - Light brown wood
+	1 - Wood standard
+	2 - cherry wood
+	3 - cherry wood
+	4 - Black snake
+	5 - Wood floral
+	6 - Pink floral
+2 - Ergo
+	0 - Mahogany
+	1 - Shortballer red wood
+3 - Black?
+	0 - Black snake
+	1 - Black solid
+4 - 
+	0 - Shortballer
+	1 - x
+	2 - Shortballer
+5 - Spraypaint
+
+GRIP
+0 - Nothing
+1 - Standard
+	0 - Silverballer standard
+	1 - Silverballer red circle
+	2 - Silverballer gray leather white screw
+	3 - Silverballer matte
+	4 - ICA logo black
+	5 - SB standard
+
+FRAME
+0 - Standard
+	0 - Black
+	1 - Silver Matte
+	2 -
+	3 - 
+	4 - Gold
+	5 - Chrome
+	6 - 
+	7 - 
+	8 - 
+	9 - 
+	10 - 
+1 - Lily v3 w/ rail
+2 - MkII whole gun
+3 - MkIII special gun
+4 - Spraypaint
+5 - 
+6 - 
+7 - 
+8 -
+9 - 
+10 -
+11 - 
+12 - 
+13 - 
+
+SLIDE
+0 - Standard
+	0 - Black
+	1 - Matte silverballer
+	2 - Chrome silverballer
+	3 - 
+	4 - 
+	5 - Chrome kimber
+	6 - Chrome kimber arrows
+	7 - 
+	8 - 
+	9 - 
+1 - 
+	0 - Black barcode
+	1 - 
+	2 - 
+2 - 
+3 - Blue Shortballer Slide
+4 - 
+	0 - Kimber
+	1 - Hexagons
+	2 - Floral
+	3 - 
+	4 - 
+5 - 
+	0 - Olive
+	1 - ?
+6 - 
+7 - 
+8 -
+9 - 
+10 -
+11 - 
+12 - 
+13 - 
+
+HAMMER
 0 - 
 1 - 
 2 - 
 3 - 
 4 - 
 5 - 
-6 - 
-7 - 
-8 - 
-9 - 
-10 - 
-11 - 
-12 - 
