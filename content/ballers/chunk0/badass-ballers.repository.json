@@ -40,28 +40,40 @@
 	"4bbe3b64-8bce-416e-a3e9-00bcd1571980": {
 		"CommonName": "(Pistol) ICA 19 SilverBaller S2",
 		"ModelBodyPartSelections": [0, 1, 1, 2, 1, 0, 1, 1, 1, 1],
-		"ModelSkinSelections":     [0, 1, 2, 2, 2, 2, 2, 2, 2, 2, 0],
-		"ModelMuzzleExtensionSelection": 4,
+		"ModelSkinSelections":     [0, 1, 2, 0, 2, 1, 2, 0, 2, 2, 0],
+		"ModelMuzzleExtensionSelection": 7,
 		"ModelMuzzleExtensionSkinSelection": 0,
-		"ModelScopeSelection": 1,
+		"ModelScopeSelection": 2,
 		"ModelScopeSkinSelection": 0
 	},
 	"c44d3dc4-5e2f-403d-9f69-40111f3643db": {
 		"CommonName": "(Pistol) The Wall Piecer",
 		"Name_LOC": "firearms_hero_wallbanger_name",
-		"ModelBodyPartSelections": [1, 4, 1, 1, 1, 0, 1, 1, 0, 1, 1],
-		"ModelMuzzleExtensionSelection": 8,
+		"ModelBodyPartSelections": [1, -1, -1, 3, 1, 3, 1, 1, 4, -1, 1],
+		"ModelSkinSelections":     [0,  0,  0, 0, 3, 0, 4, 0, 1,  2, 2],
+		"ModelMuzzleExtensionSelection": -1,
 		"ModelMuzzleExtensionSkinSelection": 1,
 		"ModelScopeSelection": 2,
 		"ModelScopeSkinSelection": 1,
-		"ModelSkinSelections": [0, 0, 0, 1, 3, 1, 4, 0, 0, 3, 2]
+		"ActorConfiguration": {
+			"DamageFar": 100.0,
+			"ShotsPerMinute": 140.0
+		},
+		"PrimaryConfiguration": {
+			"DamageFar": 100.0,
+			"ShotsPerMinute": 140.0
+		},
+		"SecondaryConfiguration": {
+			"DamageFar": 100.0,
+			"ShotsPerMinute": 140.0
+		}
 	},
 	"028bcbf4-a0a3-42b5-beaf-163a777164e8": {
 		"CommonName": "(Pistol) ICA 19 GoldBaller",
-		"ModelBodyPartSelections": [0, 1, 1, 1, 1, 1, 1, 2, 4, 1],
-		"ModelSkinSelections":     [0, 1, 2, 3, 3, 0, 3, 3, 3, 3, 0],
-		"ModelMuzzleExtensionSelection": 3,
-		"ModelMuzzleExtensionSkinSelection": 1,
+		"ModelBodyPartSelections": [0, 2, -1, 2, 1, 1, 1, 0, 3, 1],
+		"ModelSkinSelections":     [2, 0,  0, 3, 0, 0, 0, 0, 0, 1, 1],
+		"ModelMuzzleExtensionSelection": 5,
+		"ModelMuzzleExtensionSkinSelection": 0,
 		"ModelScopeSelection": 0,
 		"ModelScopeSkinSelection": 0
 	},
@@ -109,16 +121,16 @@
 			"0ade8d9c-70d9-482d-914b-38afd93b9f63",
 			"eb17e5b3-6abf-4ad7-b0e7-c13bdcbf8647"
 		],
-		"ModelBodyPartSelections": [0, 2, 1, 2, 1, 0, 1, 0, 3, 1],
-		"ModelSkinSelections":     [2, 2, 2, 3, 0, 6, 0, 0, 0, 1, 1],
-		"ModelMuzzleExtensionSelection": 7,
-		"ModelMuzzleExtensionSkinSelection": 1,
+		"ModelBodyPartSelections": [0, 2, -1, 2, 1, 1, 1, 0, 3, 1],
+		"ModelSkinSelections":     [2, 0,  0, 3, 0, 0, 0, 0, 0, 1, 1],
+		"ModelMuzzleExtensionSelection": 4,
+		"ModelMuzzleExtensionSkinSelection": 0,
 		"ModelScopeSelection": 0,
 		"ModelScopeSkinSelection": 0
 	},
 	"f91cf558-04a5-4fd8-8814-b1c765668b39": {
 		"CommonName": "(Pistol) HWK 21 Covert",
-		"ModelBodyPartSelections": [1, 1, 0, 0, 0, 1, 1],
+		"ModelBodyPartSelections": [1, 1, 1, 1, 1, 1, 1],
 		"ModelMuzzleExtensionSelection": 0,
 		"ModelMuzzleExtensionSkinSelection": 0,
 		"ModelScopeSelection": 1,
