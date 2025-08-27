@@ -3,7 +3,7 @@
 2 - outer grip
 3 - MAG
 4 - HAMMER
-5 - lower body
+5 - FRAME
 6 - GRIP SAFETY
 7 - RAIL
 8 - SLIDE
