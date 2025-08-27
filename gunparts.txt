@@ -63,7 +63,7 @@ GRIP
 	2 - Shortballer
 5 - Spraypaint
 
-GRIP
+OUTER GRIP
 0 - Nothing
 1 - Standard
 	0 - Silverballer standard
@@ -77,64 +77,51 @@ FRAME
 0 - Standard
 	0 - Black
 	1 - Silver Matte
-	2 -
-	3 - 
+	2 - Silver shiny
+	3 - Matador
 	4 - Gold
 	5 - Chrome
-	6 - 
-	7 - 
-	8 - 
-	9 - 
-	10 - 
+	6 - Chrome dark
+	7 - Piss gold DTI
+	8 - Black chrome (ducky)
+	9 - chrome
+	10 - yellow (ducky)
+	11 - steel floral
+	12 - cherry
 1 - Lily v3 w/ rail
 2 - MkII whole gun
 3 - MkIII special gun
 4 - Spraypaint
-5 - 
-6 - 
-7 - 
-8 -
-9 - 
-10 -
-11 - 
-12 - 
-13 - 
+
 
 SLIDE
 0 - Standard
 	0 - Black
 	1 - Matte silverballer
 	2 - Chrome silverballer
-	3 - 
-	4 - 
+	3 - Matador
+	4 - Gold
 	5 - Chrome kimber
 	6 - Chrome kimber arrows
-	7 - 
-	8 - 
-	9 - 
+	7 - Silver dimpled
 1 - 
 	0 - Black barcode
-	1 - 
-	2 - 
-2 - 
+	1 - Silver barcode
+	2 - Silver f/a
+	3 - ? black
+	4 - Black barcode
+2 - Mk2 slide
 3 - Blue Shortballer Slide
 4 - 
 	0 - Kimber
 	1 - Hexagons
 	2 - Floral
-	3 - 
-	4 - 
-5 - 
-	0 - Olive
-	1 - ?
-6 - 
-7 - 
-8 -
-9 - 
-10 -
-11 - 
-12 - 
-13 - 
+	3 - Cherry
+5 - Olive
+6 - Black F/A
+7 - Silver dimpled
+8 - NICE dark hexagons green sights
+9 - Concrete
 
 HAMMER
 0 - 
