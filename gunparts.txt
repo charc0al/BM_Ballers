@@ -120,7 +120,7 @@ SLIDE
 5 - Olive
 6 - Black F/A
 7 - Silver dimpled
-8 - NICE dark hexagons green sights
+8 - dark hexagons green sights
 9 - Concrete
 
 HAMMER

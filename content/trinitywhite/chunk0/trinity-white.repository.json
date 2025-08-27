@@ -1,0 +1,11 @@
+{
+	"cfa664fc-e583-4ad5-ade5-2f746d8656ca": {
+		"AppliedModifiers": ["0ade8d9c-70d9-482d-914b-38afd93b9f63", "0ade8d9c-70d9-482d-914b-38afd93b9f63"],
+		"ModelBodyPartSelections": [0, 0, 0, 3, 0, 0, 1, 1, 0, 3],
+		"ModelSkinSelections": [6, 2, 6, 0, 1, 5, 2, 1, 6, 6, 0],
+		"ModelMuzzleExtensionSelection": 3,
+		"ModelMuzzleExtensionSkinSelection": 1,
+		"ModelScopeSelection": 1,
+		"ModelScopeSkinSelection": 0
+	}
+}

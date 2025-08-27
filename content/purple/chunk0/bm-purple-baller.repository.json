@@ -1,0 +1,15 @@
+{
+	"5b497a01-7941-474f-ac36-2b0490b528a4": {
+		"AppliedModifiers": [
+			"0ade8d9c-70d9-482d-914b-38afd93b9f63",
+			"0ade8d9c-70d9-482d-914b-38afd93b9f63",
+			"0ade8d9c-70d9-482d-914b-38afd93b9f63"
+		],
+		"ModelBodyPartSelections": [0, 3, 1, 2, 1, 1, 1, 0, 3, 1],
+		"ModelSkinSelections": [2, 0, 4, 0, 0, 0, 0, 0, 0, 1, 1],
+		"ModelMuzzleExtensionSelection": 5,
+		"ModelMuzzleExtensionSkinSelection": 0,
+		"ModelScopeSelection": 0,
+		"ModelScopeSkinSelection": 0
+	}
+}

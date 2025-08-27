@@ -1,0 +1,10 @@
+{
+	"6eccc7e1-e31b-42de-8f84-b88d8e0032ea": {
+		"ModelBodyPartSelections": [0, 3, 1, 1, 1, 0, 1, 2, 0, 1],
+		"ModelSkinSelections": [3, 0, 2, 3, 2, 4, 3, 3, 4, 3, 0],
+		"ModelMuzzleExtensionSelection": 3,
+		"ModelMuzzleExtensionSkinSelection": 3,
+		"ModelScopeSelection": 0,
+		"ModelScopeSkinSelection": 0
+	}
+}
