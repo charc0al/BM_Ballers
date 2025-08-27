@@ -70,8 +70,8 @@
 	},
 	"028bcbf4-a0a3-42b5-beaf-163a777164e8": {
 		"CommonName": "(Pistol) ICA 19 GoldBaller",
-		"ModelBodyPartSelections": [0, 2, -1, 2, 1, 1, 1, 0, 3, 1],
-		"ModelSkinSelections":     [2, 0,  0, 3, 0, 0, 0, 0, 0, 1, 1],
+		"ModelBodyPartSelections": [0, 3, -1, 2, 1, 1, 1, 0, 3, 1],
+		"ModelSkinSelections":     [2, 0,  0, 0, 0, 0, 0, 0, 0, 1, 1],
 		"ModelMuzzleExtensionSelection": 5,
 		"ModelMuzzleExtensionSkinSelection": 0,
 		"ModelScopeSelection": 0,
@@ -97,7 +97,7 @@
 	},
 	"fca954f6-40b1-448d-b4a8-0c543e521cc3": {
 		"CommonName": "(Pre-order) ICA 19 Life Red Baller",
-		"ModelBodyPartSelections": [0, 0, 0, 2, 1, 1, 1, 1, 4, 1],
+		"ModelBodyPartSelections": [0, 0, 0, 2, 1, 1, 1, 1, 8, 1],
 		"ModelSkinSelections":     [1, 4, 0, 3, 0, 0, 0, 1, 0, 0, 0],
 		"ModelMuzzleExtensionSelection": 7,
 		"ModelMuzzleExtensionSkinSelection": 0,
@@ -121,9 +121,9 @@
 			"0ade8d9c-70d9-482d-914b-38afd93b9f63",
 			"eb17e5b3-6abf-4ad7-b0e7-c13bdcbf8647"
 		],
-		"ModelBodyPartSelections": [0, 2, -1, 2, 1, 1, 1, 0, 3, 1],
-		"ModelSkinSelections":     [2, 0,  0, 3, 0, 0, 0, 0, 0, 1, 1],
-		"ModelMuzzleExtensionSelection": 4,
+		"ModelBodyPartSelections": [0, 0, -1, 2, 1, 1, 1, 0, 7, 1],
+		"ModelSkinSelections":     [2, 7,  0, 1, 0, 0, 0, 0, 0, 1, 1],
+		"ModelMuzzleExtensionSelection": 7,
 		"ModelMuzzleExtensionSkinSelection": 0,
 		"ModelScopeSelection": 0,
 		"ModelScopeSkinSelection": 0

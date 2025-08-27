@@ -103,7 +103,7 @@ SLIDE
 	4 - Gold
 	5 - Chrome kimber
 	6 - Chrome kimber arrows
-	7 - Silver dimpled
+	7 - ?Silver dimpled
 1 - 
 	0 - Black barcode
 	1 - Silver barcode
