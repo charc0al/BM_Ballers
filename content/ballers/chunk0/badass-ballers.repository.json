@@ -7,7 +7,7 @@
 			"0ade8d9c-70d9-482d-914b-38afd93b9f63"
 		],
 		"ModelBodyPartSelections": [0, 0, 1, 2, 1, 1, 1, 1, 4, 1],
-		"ModelSkinSelections":     [0, 6, 4, 3, 0, 0, 0, 0, 0, 0, 0],
+		"ModelSkinSelections": [0, 6, 4, 3, 0, 0, 0, 0, 0, 0, 0],
 		"ModelMuzzleExtensionSelection": 7,
 		"ModelMuzzleExtensionSkinSelection": 0,
 		"ModelScopeSelection": 2,
@@ -22,7 +22,7 @@
 			"0ade8d9c-70d9-482d-914b-38afd93b9f63"
 		],
 		"ModelBodyPartSelections": [0, 3, 1, 2, 1, 1, 1, 0, 4, 1],
-		"ModelSkinSelections":     [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1],
+		"ModelSkinSelections": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1],
 		"ModelMuzzleExtensionSelection": 7,
 		"ModelMuzzleExtensionSkinSelection": 1,
 		"ModelScopeSelection": 0,
@@ -37,7 +37,7 @@
 			"0ade8d9c-70d9-482d-914b-38afd93b9f63"
 		],
 		"ModelBodyPartSelections": [0, 1, 1, 2, 1, 0, 1, 1, 0, 0],
-		"ModelSkinSelections":     [6, 1, 2, 0, 2, 1, 2, 0, 1, 1, 0],
+		"ModelSkinSelections": [6, 1, 2, 0, 2, 1, 2, 0, 1, 1, 0],
 		"ModelMuzzleExtensionSelection": 7,
 		"ModelMuzzleExtensionSkinSelection": 0,
 		"ModelScopeSelection": 2,
@@ -47,7 +47,7 @@
 		"CommonName": "(Pistol) The Wall Piecer",
 		"Name_LOC": "firearms_hero_wallbanger_name",
 		"ModelBodyPartSelections": [1, -1, -1, 3, 1, 3, 1, 1, 4, -1, 1],
-		"ModelSkinSelections":     [0,  0,  0, 0, 3, 0, 4, 0, 1,  2, 2],
+		"ModelSkinSelections": [0, 0, 0, 0, 3, 0, 4, 0, 1, 2, 2],
 		"ModelMuzzleExtensionSelection": -1,
 		"ModelMuzzleExtensionSkinSelection": 1,
 		"ModelScopeSelection": 2,
@@ -68,7 +68,7 @@
 	"6eccc7e1-e31b-42de-8f84-b88d8e0032ea": {
 		"CommonName": "(Pistol) ICA 19 DTI",
 		"ModelBodyPartSelections": [0, 3, 1, 1, 1, 0, 1, 2, 0, 1],
-		"ModelSkinSelections":     [3, 0, 2, 3, 2, 4, 3, 3, 4, 3, 0],
+		"ModelSkinSelections": [3, 0, 2, 3, 2, 4, 3, 3, 4, 3, 0],
 		"ModelMuzzleExtensionSelection": 3,
 		"ModelMuzzleExtensionSkinSelection": 3,
 		"ModelScopeSelection": 0,
@@ -82,7 +82,7 @@
 			"0ade8d9c-70d9-482d-914b-38afd93b9f63"
 		],
 		"ModelBodyPartSelections": [1, 3, 1, 2, 1, 1, 1, 1, 4, 1],
-		"ModelSkinSelections":     [1, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0],
+		"ModelSkinSelections": [1, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0],
 		"ModelMuzzleExtensionSelection": 7,
 		"ModelMuzzleExtensionSkinSelection": 0,
 		"ModelScopeSelection": 4,
@@ -91,7 +91,7 @@
 	"fca954f6-40b1-448d-b4a8-0c543e521cc3": {
 		"CommonName": "(Pre-order) ICA 19 Life Red Baller",
 		"ModelBodyPartSelections": [0, 0, 0, 2, 1, 1, 1, 1, 4, 1],
-		"ModelSkinSelections":     [1, 4, 0, 3, 0, 0, 0, 1, 0, 0, 0],
+		"ModelSkinSelections": [1, 4, 0, 3, 0, 0, 0, 1, 0, 0, 0],
 		"ModelMuzzleExtensionSelection": 7,
 		"ModelMuzzleExtensionSkinSelection": 0,
 		"ModelScopeSelection": 2,
@@ -104,12 +104,9 @@
 	},
 	"cfa664fc-e583-4ad5-ade5-2f746d8656ca": {
 		"CommonName": "(Pre-order) ICA 19 Birth White Baller",
-		"AppliedModifiers": [
-			"0ade8d9c-70d9-482d-914b-38afd93b9f63",
-			"0ade8d9c-70d9-482d-914b-38afd93b9f63"
-		],
+		"AppliedModifiers": ["0ade8d9c-70d9-482d-914b-38afd93b9f63", "0ade8d9c-70d9-482d-914b-38afd93b9f63"],
 		"ModelBodyPartSelections": [0, 0, 0, 3, 0, 0, 1, 1, 0, 3],
-		"ModelSkinSelections":     [6, 2, 6, 0, 1, 5, 2, 1, 6, 6, 0],
+		"ModelSkinSelections": [6, 2, 6, 0, 1, 5, 2, 1, 6, 6, 0],
 		"ModelMuzzleExtensionSelection": 3,
 		"ModelMuzzleExtensionSkinSelection": 1,
 		"ModelScopeSelection": 1,
@@ -123,7 +120,7 @@
 			"0ade8d9c-70d9-482d-914b-38afd93b9f63"
 		],
 		"ModelBodyPartSelections": [0, 3, 1, 2, 1, 1, 1, 0, 3, 1],
-		"ModelSkinSelections":     [2, 0, 4, 0, 0, 0, 0, 0, 0, 1, 1],
+		"ModelSkinSelections": [2, 0, 4, 0, 0, 0, 0, 0, 0, 1, 1],
 		"ModelMuzzleExtensionSelection": 5,
 		"ModelMuzzleExtensionSkinSelection": 0,
 		"ModelScopeSelection": 0,

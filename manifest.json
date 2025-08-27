@@ -1,12 +1,12 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.2.2",
+	"version": "0.3.0",
 	"updateCheck": "https://github.com/charc0al/BM_Ballers/releases/latest/download/updates.json",
 	"id": "Charc0al.BloodMoneyBallers",
 	"name": "Blood Money Ballers",
 	"description": "A collection of upgraded silverballers.",
 	"authors": ["Charc0al"],
-	"frameworkVersion": "2.33.26",
+	"frameworkVersion": "2.33.27",
 	"options": [
 		{
 			"name": "Ballers",
