@@ -9,16 +9,8 @@
 	"frameworkVersion": "2.33.27",
 	"options": [
 		{
-			"name": "Replacement Ballers - ALL",
-			"tooltip": "All replacement ballers. Faster to deploy if you want everything. The same as checking all the other options individually.",
-			"group": "Other",
-			"type": "checkbox",
-			"enabledByDefault": true,
-			"contentFolders": ["content/ballers"]
-		},
-		{
-			"name": "Unlock Ballers - ALL",
-			"tooltip": "Adds the 1911 Charcoal and the Wallbanger as new unlocks at the loadout screen.",
+			"name": "Addon Ballers",
+			"tooltip": "Adds the 1911 Charcoal and the Wallbanger as new unlocks at the loadout screen. The Wallbanger is a must try.",
 			"group": "Other",
 			"type": "checkbox",
 			"enabledByDefault": true,
@@ -37,14 +29,16 @@
 			"group": "Other",
 			"type": "checkbox",
 			"image": "smf/mk2.webp",
+			"enabledByDefault": true,
 			"contentFolders": ["content/mk2"]
 		},
 		{
 			"name": "Replace | GOLD Baller (Freelancer)",
-			"tooltip": "Replaces ugly goldballer with a VERY gold baller :)",
+			"tooltip": "Replaces ugly freelancer pissballer with a VERY gold baller :)",
 			"group": "Other",
 			"type": "checkbox",
 			"image": "smf/gold.webp",
+			"enabledByDefault": true,
 			"contentFolders": ["content/gold"]
 		},
 		{
@@ -61,7 +55,14 @@
 			"group": "Other",
 			"type": "checkbox",
 			"image": "smf/purple.webp",
-			"contentFolders": ["content/purple"]
+			"contentFolders": ["content/purple"],
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Blueballer"
+					}
+				}
+			}
 		},
 		{
 			"name": "Replace | Trinity Black",

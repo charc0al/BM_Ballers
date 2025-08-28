@@ -8,7 +8,7 @@
 			"0ade8d9c-70d9-482d-914b-38afd93b9f63"
 		],
 		"ModelBodyPartSelections": [0, 1, 1, 2, 1, 0, 1, 1, 0, 0],
-		"ModelSkinSelections": [6, 1, 2, 0, 2, 1, 2, 0, 1, 1, 0],
+		"ModelSkinSelections":     [6, 1, 2, 0, 2, 2, 2, 0, 5, 1, 0],
 		"ModelMuzzleExtensionSelection": 7,
 		"ModelMuzzleExtensionSkinSelection": 0,
 		"ModelScopeSelection": 2,
