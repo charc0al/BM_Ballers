@@ -29,6 +29,13 @@
 					"FIREARMS_HERO_WALLBANGER_NAME": "The Wallbanger",
 					"FIREARMS_HERO_PISTOL_ICA19_BLACKLILLY3_NAME": "1911 Charcoal"
 				}
+			},
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Blueballer"
+					}
+				}
 			}
 		},
 		{
@@ -61,7 +68,14 @@
 			"group": "Other",
 			"type": "checkbox",
 			"image": "smf/purple.webp",
-			"contentFolders": ["content/purple"]
+			"contentFolders": ["content/purple"],
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Blueballer"
+					}
+				}
+			}
 		},
 		{
 			"name": "Replace | Trinity Black",
