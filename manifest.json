@@ -89,6 +89,21 @@
 			"contentFolders": ["content/trinitywhite"]
 		},
 		{
+			"name": "Replace | HWK21 mk2",
+			"tooltip": "Replaces HWK21 with a tactical P99",
+			"group": "Other",
+			"type": "checkbox",
+			"image": "smf/white.webp",
+			"contentFolders": ["content/hwk21"],
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"2755084931": "Walther P99 Tactical",
+					}
+				}
+			}
+		},
+		{
 			"name": "Disable Online Resources",
 			"tooltip": "Allows for edits to the REPO, such as changing NPC names or certain weapon details. Not necessary if using Peacock. If you enable this and use the Peacock server, you need to also install https://github.com/thepeacockproject/peacock-strings for Peacock’s text to display properly.",
 			"type": "checkbox",
