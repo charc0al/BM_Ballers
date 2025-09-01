@@ -93,7 +93,7 @@
 			"tooltip": "Replaces HWK21 with a tactical P99",
 			"group": "Other",
 			"type": "checkbox",
-			"image": "smf/white.webp",
+			"image": "smf/hwk21.webp",
 			"contentFolders": ["content/hwk21"],
 			"localisationOverrides": {
 				"0072D1A320470342": {

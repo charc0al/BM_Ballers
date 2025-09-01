@@ -1,9 +1,9 @@
 {
     "bc2df333-bce1-4758-9bc5-4bce40d2c218": {
-        "CommonName": "(Pistol) HWK 21 S2!",
 		"AppliedModifiers": [
 			"7b3ab06e-b466-496d-911d-783fa6835103",
-			"8a7993b6-692b-4097-988b-214876779fe7"
+			"8a7993b6-692b-4097-988b-214876779fe7",
+			"a8c57e57-646b-4f1d-84a6-0fa4bbcb9944"
 		],
 		"AudioHeadType": "eWBC_AudioHeadTailType_Silenced",
 		"AudioTailType": "eWBC_AudioHeadTailType_Silenced",
