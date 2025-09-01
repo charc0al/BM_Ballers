@@ -1,5 +1,5 @@
 {
-    "bc2df333-bce1-4758-9bc5-4bce40d2c218": {
+	"bc2df333-bce1-4758-9bc5-4bce40d2c218": {
 		"AppliedModifiers": [
 			"7b3ab06e-b466-496d-911d-783fa6835103",
 			"8a7993b6-692b-4097-988b-214876779fe7",
@@ -9,7 +9,7 @@
 		"AudioTailType": "eWBC_AudioHeadTailType_Silenced",
 		"HudIcon": "40545542277908508",
 		"ModelBodyPartSelections": [1, -1, 1, 3, 1, 4, 0],
-		"ModelSkinSelections":     [0,  0, 0, 0, 0, 0, 0],
+		"ModelSkinSelections": [0, 0, 0, 0, 0, 0, 0],
 		"ModelMuzzleExtensionSelection": 8.0,
 		"ModelScopeSelection": 2,
 		"ModelScopeSkinSelection": 1,
@@ -30,9 +30,7 @@
 			"bd3919e8-21b7-4ac8-80fd-ed4bad0dcc81",
 			"87a12664-9bad-48d6-86f6-f415f5c64a65"
 		],
-		"Perks": [
-			"suppressor"
-		],
+		"Perks": ["suppressor"],
 		"PrecisionMaxDegree": 0.01,
 		"PrecisionMinDegree": 0.01,
 		"ActorConfiguration": {
@@ -90,5 +88,5 @@
 			"RangeMedium": 50,
 			"RangeNear": 30
 		}
-    }
+	}
 }
